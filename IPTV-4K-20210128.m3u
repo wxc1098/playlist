@@ -1,0 +1,140 @@
+#EXTM3U
+#EXTINF:-1 ,Bloomberg Television
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+#EXTINF:-1 ,BBC News
+http://tv.iptvpl.itv.world:8080/jlsddy44ji/hjgkuyh87686yh/683843
+#EXTINF:-1 ,Arirang TV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 ,MIS Televizija
+https://5afd52b55ff79.streamlock.net/MISTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 ,M4
+https://5a32c05065c79.streamlock.net/live/stream/chunklist.m3u8
+#EXTINF:-1 ,M4
+https://5a32c05065c79.streamlock.net/live/stream/chunklist_w286280757.m3u8
+#EXTINF:-1 ,Buddhist Broadcasting
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+#EXTINF:-1 ,Buddhist Broadcasting
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1 ,SMTV
+https://c.mjh.nz/snowy-mountains/
+#EXTINF:-1 ,FTV Midnite Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 ,HD Fashion & Lifestyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 ,HD Fashion & Lifestyle
+http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 ,HD Fashion & Lifestyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
+#EXTINF:-1 ,ID Fashion
+https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8?_=1602581479
+
+#EXTINF:-1 ,ELEVEN SPORTS 1
+http://red.ipfox.org:8080/Karim2_534341/40036069/28005
+#EXTINF:-1 ,ELEVEN SPORTS 2
+http://red.ipfox.org:8080/Karim2_534341/40036069/28004
+#EXTINF:-1 ,ELEVEN SPORTS 3
+http://red.ipfox.org:8080/Karim2_534341/40036069/28003
+#EXTINF:-1 ,ELEVEN SPORTS 4
+http://red.ipfox.org:8080/Karim2_534341/40036069/28002
+
+#EXTINF:-1 ,ELEVEN 1
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4486
+#EXTINF:-1 ,ELEVEN 2
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4485
+#EXTINF:-1 ,ELEVEN 3
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4484
+#EXTINF:-1 ,ELEVEN 4
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4483
+#EXTINF:-1 ,ELEVEN 5
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4482
+#EXTINF:-1 ,ELEVEN 6
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4481
+
+http://185.71.64.167:80/307245103371/307245103371/78563
+http://185.71.64.167:80/307245103371/307245103371/78617
+http://185.71.64.167:80/307245103371/307245103371/78637
+http://rv.therevenge.co:80/1234560/1234560/78563
+http://rv.therevenge.co:80/1234560/1234560/78617
+http://rv.therevenge.co:80/1234560/1234560/78637
+
+#EXTINF:-1 ,KSA SPORTS 1
+http://185.71.64.167:80/307245103371/307245103371/79823
+http://rv.therevenge.co:80/1234560/1234560/79823
+
+
+     1920 X 1080
+-------------------------------------------------------------------------------------
+     1080 X 720
+
+#EXTINF:-1 ,NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 ,Bloomberg Australia
+https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
+#EXTINF:-1 ,Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+#EXTINF:-1 ,Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 ,FS1 Salzburg
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1 ,M4
+rtmp://streaming.austria24.tv/live/mp4:stream_720p
+
+#EXTINF:-1 ,Fashion TV
+http://rv.therevenge.co:80/565656/565656/79746
+#EXTINF:-1 ,Fashion TV
+http://185.71.64.167:80/307245103371/307245103371/85067
+#EXTINF:-1 ,Fashion TV
+http://rv.therevenge.co:80/565656/565656/85067
+
+#EXTINF:-1,﻿DIGI SPORT 1 HD
+http://d-e-02.cdn.rdsnet.ro/DVR/digisport1hdb.stream/playlist.m3u8
+#EXTINF:-1,﻿DIGI SPORT 2 HD
+http://d-e-02.cdn.rdsnet.ro/DVR/digisport2hdb.stream/playlist.m3u8
+#EXTINF:-1,﻿DIGI SPORT 3 HD
+http://d-e-02.cdn.rdsnet.ro/DVR/digisport3hdb.stream/playlist.m3u8
+#EXTINF:-1,﻿DIGI SPORT 4 HD
+http://d-e-02.cdn.rdsnet.ro/DVR/digisport4hdb.stream/playlist.m3u8
+
+#EXTINF:-1, SPORT TV 1
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1, SPORT TV 2
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1, SPORT TV 3
+https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1, SPORT TV 4
+https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1, SPORT TV 5
+https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ultra REX" tvg-logo="null" group-title="4K",Ultra REX
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel Guide TV UA" tvg-logo="null" group-title="Украинские",Travel Guide TV UA
+http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8
+#EXTINF:-1,STAR TV
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1,PREMIUM TV
+http://premium-channel.tv:88/live/kali.m3u8
+
+#EXTINF:-1 ,Berita Satu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 ,Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 ,CNBC Indonesia
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
+#EXTINF:-1 ,TVRI Nasional
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:-1 ,RRI Net
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1 ,Hidup TV
+http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
+#EXTINF:-1 ,Berita RTM
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
+#EXTINF:-1 ,TV1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+#EXTINF:-1 ,TV2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+#EXTINF:-1 ,Palestinian TV
+http://51.255.84.28:8081/palestiniantv_source/live/chunks.m3u8
+#EXTINF:-1 ,Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+
