@@ -1,0 +1,166 @@
+#EXTM3U
+
+#EXTINF:-1 ,BT Sport 1 HD
+http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1865
+#EXTINF:-1 ,BT Sport 2 HD
+http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1866
+#EXTINF:-1 ,BT Sport 3 HD
+http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/2118
+#EXTINF:-1 ,BT Sport ESPN HD
+http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1867
+
+
+#EXTINF:-1 ,Sky Sports Mix
+http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1860
+#EXTINF:-1 ,Sky Sports F1
+http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1861
+#EXTINF:-1 ,Eir Sports 1
+http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1862
+#EXTINF:-1 ,Sky Sports News
+http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1864
+#EXTINF:-1 ,Sky Sports Golf
+http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1868
+#EXTINF:-1 ,Sky Sports Cricket
+http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1869
+#EXTINF:-1 ,Cartoon Network
+http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1874
+#EXTINF:-1 ,Sky Sports Main Event
+http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1875
+#EXTINF:-1 ,YOL
+http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1876
+
+
+
+
+#EXTINF:-1 ,НТВ+ Спорт
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 ,FOX Sports
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 ,FF
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/548
+#EXTINF:-1 ,FOX Sports 1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549
+#EXTINF:-1 ,FOX Sports 2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550
+#EXTINF:-1 ,FXM
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/553
+#EXTINF:-1 ,FXX
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/554
+#EXTINF:-1 ,G
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
+#EXTINF:-1 ,Golf Channel
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/558
+#EXTINF:-1 ,GOLTV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559
+#EXTINF:-1 ,NBA TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
+#EXTINF:-1 ,STAR TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/601
+#EXTINF:-1 ,Access Hollywood
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/602
+#EXTINF:-1 ,Access Hollywood
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/603
+#EXTINF:-1 ,NBCSN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606
+
+
+#EXTINF:-1 ,Eleven Sports-1
+http://internetowa.tv/?c=hlsPlay&channel=eleven&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+#EXTINF:-1 ,Eleven Sports-2
+http://internetowa.tv/?c=hlsPlay&channel=eleven2&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+#EXTINF:-1 ,Eleven Sports-3
+http://internetowa.tv/?c=hlsPlay&channel=eleven3&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+#EXTINF:-1 ,Eleven Sports-4
+http://internetowa.tv/?c=hlsPlay&channel=eleven4&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+#EXTINF:-1 ,Eurosport-1
+http://internetowa.tv/?c=hlsPlay&channel=eurosport&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+#EXTINF:-1 ,Eurosport-2
+http://internetowa.tv/?c=hlsPlay&channel=eurosport2&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+#EXTINF:-1 ,HBO
+http://internetowa.tv/?c=hlsPlay&channel=HBO&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+#EXTINF:-1 ,HBO-2
+http://internetowa.tv/?c=hlsPlay&channel=HBO2&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+#EXTINF:-1 ,HBO-3
+http://internetowa.tv/?c=hlsPlay&channel=HBO3&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+#EXTINF:-1 ,History
+http://internetowa.tv/?c=hlsPlay&channel=history&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+#EXTINF:-1 ,National Geographics Wild
+http://internetowa.tv/?c=hlsPlay&channel=natgeowild&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+#EXTINF:-1 ,National Geographics People
+http://internetowa.tv/?c=hlsPlay&channel=natgeopeople&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+#EXTINF:-1 ,Discovery
+http://internetowa.tv/?c=hlsPlay&channel=discovery&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+#EXTINF:-1 ,Discovery Science
+http://internetowa.tv/?c=hlsPlay&channel=discoveryscience&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+#EXTINF:-1 ,Animal Planet
+http://internetowa.tv/?c=hlsPlay&channel=animalplanet&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+#EXTINF:-1 ,TLC
+http://internetowa.tv/?c=hlsPlay&channel=tlc&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+#EXTINF:-1 ,TVN Style
+http://internetowa.tv/?c=hlsPlay&channel=tvnstyle&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+#EXTINF:-1 ,Planete +
+http://internetowa.tv/?c=hlsPlay&channel=planeteplus&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+#EXTINF:-1 ,SciFi
+http://internetowa.tv/?c=hlsPlay&channel=scifi&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+#EXTINF:-1 ,TNT
+http://internetowa.tv/?c=hlsPlay&channel=tnt&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+#EXTINF:-1 ,Canal+ Sport
+http://internetowa.tv/?c=hlsPlay&channel=canalplussport&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+#EXTINF:-1 ,Canal+ Sport-2
+http://internetowa.tv/?c=hlsPlay&channel=canalplussport2&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+#EXTINF:-1 ,TVP Sport
+http://internetowa.tv/?c=hlsPlay&channel=tvpsport&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+#EXTINF:-1 ,nSport+
+http://internetowa.tv/?c=hlsPlay&channel=nsportplus&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+#EXTINF:-1 ,Polsat Sport Extra
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportextra&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+#EXTINF:-1 ,Polsat Sport News
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportnews&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+#EXTINF:-1 ,Polsat Sport Fight
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportfight&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+#EXTINF:-1 ,Polsat Sport Premium-1
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+#EXTINF:-1 ,Polsat Sport Premium-2
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium2&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+#EXTINF:-1 ,Polsat Sport Premium-3
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium3&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+#EXTINF:-1 ,Polsat Sport Premium-4
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium4&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+#EXTINF:-1 ,Polsat Sport Premium-5
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium5&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+#EXTINF:-1 ,Polsat Sport Premium-6
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium6&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+
+#EXTINF:-1 ,Tennis Channel Plus
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1 ,Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
+#EXTINF:-1 ,Berita Satu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 ,Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 ,CNBC Indonesia
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
+#EXTINF:-1 ,CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w672934803_b384000_sleng.m3u8
+#EXTINF:-1 ,Hidup TV
+http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
+#EXTINF:-1 ,RRI Net
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1 ,TVRI Nasional
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+
+#EXTINF:-1 ,Bloomberg Televisionhttps://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+#EXTINF:-1 ,Bloomberg Asia
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF:-1 ,Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 ,RT Documentary
+http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
+#EXTINF:-1 ,NHK World Japan
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 ,OraNews
+https://tv.oranews.tv/live/oranews/index.m3u8
+
