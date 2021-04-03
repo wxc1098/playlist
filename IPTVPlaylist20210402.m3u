@@ -1,15 +1,15 @@
 #EXTM3U
 
 #EXTINF:-1 ,Bloomberg Television
-https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8 -ed
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1 ,NHK World
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8 -ed
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 ,BBC Earth
-http://nomorecable.xyz:80/vmp343streams/850256/115056 -ed
+http://nomorecable.xyz:80/vmp343streams/850256/115056
 #EXTINF:-1 ,Love Nature
-http://lapazienzaelavirtudeiforti.ddns.net:29500/antonella/654321/133977 -ed
+http://lapazienzaelavirtudeiforti.ddns.net:29500/antonella/654321/133977
 #EXTINF:-1 ,Love Nature
-http://lapazienzaelavirtudeiforti.ddns.net:29500/antonella/654321/135509 -ed
+http://lapazienzaelavirtudeiforti.ddns.net:29500/antonella/654321/135509
 
 #EXTINF:-1 ,Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
@@ -27,15 +27,15 @@ http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 https://c.mjh.nz/snowy-mountains/
 
 #EXTINF:-1 ,FTV Midnite Secrets
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8 -ed
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 ,HD Fashion & Lifestyle
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8 -ed
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 ,HD Fashion & Lifestyle
-http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8 -ed
+http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 ,HD Fashion & Lifestyle
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241 -ed
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
 #EXTINF:-1 ,ID Fashion
-https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8?_=1602581479 -ed
+https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8?_=1602581479
 
 #EXTINF:-1 ,Eleven Sports-1
 http://internetowa.tv/?c=hlsPlay&channel=eleven&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
