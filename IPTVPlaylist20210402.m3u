@@ -6,6 +6,10 @@ https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virgin
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8 -ed
 #EXTINF:-1 ,BBC Earth
 http://nomorecable.xyz:80/vmp343streams/850256/115056 -ed
+#EXTINF:-1 ,Love Nature
+http://lapazienzaelavirtudeiforti.ddns.net:29500/antonella/654321/133977 -ed
+#EXTINF:-1 ,Love Nature
+http://lapazienzaelavirtudeiforti.ddns.net:29500/antonella/654321/135509 -ed
 
 #EXTINF:-1 ,Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
