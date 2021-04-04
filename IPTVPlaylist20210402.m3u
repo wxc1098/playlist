@@ -2,12 +2,16 @@
 
 #EXTINF:-1 ,Bloomberg Television
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+
 #EXTINF:-1 ,NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
 #EXTINF:-1 ,BBC Earth
 http://nomorecable.xyz:80/vmp343streams/850256/115056
+
 #EXTINF:-1 ,Love Nature
 http://lapazienzaelavirtudeiforti.ddns.net:29500/antonella/654321/133977
+
 #EXTINF:-1 ,Love Nature
 http://lapazienzaelavirtudeiforti.ddns.net:29500/antonella/654321/135509
 
@@ -253,4 +257,99 @@ http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 ,OraNews
 https://tv.oranews.tv/live/oranews/index.m3u8
+
+#EXTINF:-1 ,MTV2
+http://nomorecable.xyz:80/vmp343streams/850256/114988
+#EXTINF:-1 ,MUCH
+http://nomorecable.xyz:80/vmp343streams/850256/114989
+#EXTINF:-1 ,-----
+http://nomorecable.xyz:80/vmp343streams/850256/114990
+#EXTINF:-1 ,NatGeo Wild
+http://nomorecable.xyz:80/vmp343streams/850256/114991
+#EXTINF:-1 ,Nicktoons
+http://nomorecable.xyz:80/vmp343streams/850256/114992
+#EXTINF:-1 ,Omni Television
+http://nomorecable.xyz:80/vmp343streams/850256/114995
+#EXTINF:-1 ,Canada One
+http://nomorecable.xyz:80/vmp343streams/850256/114997
+#EXTINF:-1 ,Paramount
+http://nomorecable.xyz:80/vmp343streams/850256/114998
+#EXTINF:-1 ,Dramatisation
+http://nomorecable.xyz:80/vmp343streams/850256/115001
+#EXTINF:-1 ,Silver Screen
+http://nomorecable.xyz:80/vmp343streams/850256/115002
+#EXTINF:-1 ,Smithsonian Channel
+http://nomorecable.xyz:80/vmp343streams/850256/115004
+#EXTINF:-1 ,Paramount
+http://nomorecable.xyz:80/vmp343streams/850256/115005
+#EXTINF:-1 ,-----
+http://nomorecable.xyz:80/vmp343streams/850256/115007
+#EXTINF:-1 ,Teletoon
+http://nomorecable.xyz:80/vmp343streams/850256/115011
+#EXTINF:-1 ,TSC
+http://nomorecable.xyz:80/vmp343streams/850256/115013
+#EXTINF:-1 ,Rai Italia
+http://nomorecable.xyz:80/vmp343streams/850256/115014
+#EXTINF:-1 ,TLN
+http://nomorecable.xyz:80/vmp343streams/850256/115015
+#EXTINF:-1 ,-----
+http://nomorecable.xyz:80/vmp343streams/850256/115017
+#EXTINF:-1 ,The Weather Network
+http://nomorecable.xyz:80/vmp343streams/850256/115019
+#EXTINF:-1 ,Fishing
+http://nomorecable.xyz:80/vmp343streams/850256/115020
+#EXTINF:-1 ,News Nation Now
+http://nomorecable.xyz:80/vmp343streams/850256/115021
+#EXTINF:-1 ,Wild Television Network
+http://nomorecable.xyz:80/vmp343streams/850256/115022
+#EXTINF:-1 ,Addik TV
+http://nomorecable.xyz:80/vmp343streams/850256/115024
+#EXTINF:-1 ,En Debrouillage
+http://nomorecable.xyz:80/vmp343streams/850256/115026
+#EXTINF:-1 ,-----
+http://nomorecable.xyz:80/vmp343streams/850256/115027
+#EXTINF:-1 ,CASA
+http://nomorecable.xyz:80/vmp343streams/850256/115028
+#EXTINF:-1 ,-----
+http://nomorecable.xyz:80/vmp343streams/850256/115029
+#EXTINF:-1 ,-----
+http://nomorecable.xyz:80/vmp343streams/850256/115030
+#EXTINF:-1 ,Historia
+http://nomorecable.xyz:80/vmp343streams/850256/115031
+#EXTINF:-1 ,ICI Tele
+http://nomorecable.xyz:80/vmp343streams/850256/115032
+#EXTINF:-1 ,-----
+http://nomorecable.xyz:80/vmp343streams/850256/115034
+#EXTINF:-1 ,-----
+http://nomorecable.xyz:80/vmp343streams/850256/115035
+#EXTINF:-1 ,-----
+http://nomorecable.xyz:80/vmp343streams/850256/115036
+#EXTINF:-1 ,Prise 2
+http://nomorecable.xyz:80/vmp343streams/850256/115037
+#EXTINF:-1 ,RDS 1
+http://nomorecable.xyz:80/vmp343streams/850256/115038
+#EXTINF:-1 ,RDS Info
+http://nomorecable.xyz:80/vmp343streams/850256/115040
+#EXTINF:-1 ,Series Plus
+http://nomorecable.xyz:80/vmp343streams/850256/115041
+#EXTINF:-1 ,Food Network
+http://nomorecable.xyz:80/vmp343streams/850256/115044
+#EXTINF:-1 ,Mini TFO
+http://nomorecable.xyz:80/vmp343streams/850256/115046
+#EXTINF:-1 ,TVA
+http://nomorecable.xyz:80/vmp343streams/850256/115047
+#EXTINF:-1 ,TVA
+http://nomorecable.xyz:80/vmp343streams/850256/115048
+#EXTINF:-1 ,-----
+http://nomorecable.xyz:80/vmp343streams/850256/115049
+#EXTINF:-1 ,-----
+http://nomorecable.xyz:80/vmp343streams/850256/115051
+#EXTINF:-1 ,Zeste
+http://nomorecable.xyz:80/vmp343streams/850256/115053
+#EXTINF:-1 ,ICI Tele
+http://nomorecable.xyz:80/vmp343streams/850256/115054
+#EXTINF:-1 ,LCN
+http://nomorecable.xyz:80/vmp343streams/850256/115055
+#EXTINF:-1 ,BBC Earth
+http://nomorecable.xyz:80/vmp343streams/850256/115056
 
