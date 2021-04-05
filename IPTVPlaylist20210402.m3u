@@ -2,10 +2,8 @@
 
 #EXTINF:-1 ,Bloomberg Television
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-
 #EXTINF:-1 ,NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-
 #EXTINF:-1 ,BBC Earth
 http://nomorecable.xyz:80/vmp343streams/850256/115056
 
@@ -296,7 +294,68 @@ https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 ,OraNews
 https://tv.oranews.tv/live/oranews/index.m3u8
 
-#EXTINF:-1 ,MTV2
+
+#EXTINF:-1 ,CTV
+http://nomorecable.xyz:80/vmp343streams/850256/114937
+#EXTINF:-1 ,Star
+http://nomorecable.xyz:80/vmp343streams/850256/114944
+#EXTINF:-1 ,Dejaview
+http://nomorecable.xyz:80/vmp343streams/850256/114946
+#EXTINF:-1 ,Discovery
+http://nomorecable.xyz:80/vmp343streams/850256/114947
+#EXTINF:-1 ,SCI
+http://nomorecable.xyz:80/vmp343streams/850256/114948
+#EXTINF:-1 ,Disney Junior
+http://nomorecable.xyz:80/vmp343streams/850256/114949
+#EXTINF:-1 ,Disney Channel
+http://nomorecable.xyz:80/vmp343streams/850256/114950
+#EXTINF:-1 ,DIY Network
+http://nomorecable.xyz:80/vmp343streams/850256/114951
+#EXTINF:-1 ,DTour
+http://nomorecable.xyz:80/vmp343streams/850256/114952
+#EXTINF:-1 ,E
+http://nomorecable.xyz:80/vmp343streams/850256/114953
+#EXTINF:-1 ,FOX5
+http://nomorecable.xyz:80/vmp343streams/850256/114956
+#EXTINF:-1 ,FOX
+http://nomorecable.xyz:80/vmp343streams/850256/114957
+#EXTINF:-1 ,Game Show Network
+http://nomorecable.xyz:80/vmp343streams/850256/114963
+#EXTINF:-1 ,Game Show Network
+http://nomorecable.xyz:80/vmp343streams/850256/114965
+#EXTINF:-1 ,CTV Life Channel
+http://nomorecable.xyz:80/vmp343streams/850256/114967
+#EXTINF:-1 ,H2
+http://nomorecable.xyz:80/vmp343streams/850256/114968
+#EXTINF:-1 ,The Money Hole
+http://nomorecable.xyz:80/vmp343streams/850256/114970
+#EXTINF:-1 ,History
+http://nomorecable.xyz:80/vmp343streams/850256/114972
+#EXTINF:-1 ,CNN
+http://nomorecable.xyz:80/vmp343streams/850256/114973
+#EXTINF:-1 ,IFC
+http://nomorecable.xyz:80/vmp343streams/850256/114974
+#EXTINF:-1 ,IIPC TV
+http://nomorecable.xyz:80/vmp343streams/850256/114975
+#EXTINF:-1 ,Investigation Discovery
+http://nomorecable.xyz:80/vmp343streams/850256/114976
+#EXTINF:-1 ,CBS
+http://nomorecable.xyz:80/vmp343streams/850256/114977
+#EXTINF:-1 ,K:
+http://nomorecable.xyz:80/vmp343streams/850256/114978
+#EXTINF:-1 ,Lifetime
+http://nomorecable.xyz:80/vmp343streams/850256/114980
+#EXTINF:-1 ,Makeful
+http://nomorecable.xyz:80/vmp343streams/850256/114982
+#EXTINF:-1 ,MAV TV
+http://nomorecable.xyz:80/vmp343streams/850256/114983
+#EXTINF:-1 ,MAX
+http://nomorecable.xyz:80/vmp343streams/850256/114984
+#EXTINF:-1 ,Mediaset Italia
+http://nomorecable.xyz:80/vmp343streams/850256/114985
+#EXTINF:-1 ,Movie Time
+http://nomorecable.xyz:80/vmp343streams/850256/114987
+#EXTINF:-1 ,MTV
 http://nomorecable.xyz:80/vmp343streams/850256/114988
 #EXTINF:-1 ,MUCH
 http://nomorecable.xyz:80/vmp343streams/850256/114989
