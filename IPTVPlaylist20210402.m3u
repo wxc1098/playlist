@@ -452,6 +452,13 @@ http://nomorecable.xyz:80/vmp343streams/850256/115055
 #EXTINF:-1 ,BBC Earth
 http://nomorecable.xyz:80/vmp343streams/850256/115056
 
+#EXTINF:-1 ,BT Sport 1 HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33630
+#EXTINF:-1 ,BT Sport 2 HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33631
+#EXTINF:-1 ,BT Sport 3 HD
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33577
+
 #EXTINF:-1 ,625
 http://rv.therevenge.co:80/1234560/1234560/78625
 #EXTINF:-1 ,626
