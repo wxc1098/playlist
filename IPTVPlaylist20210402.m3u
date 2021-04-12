@@ -1004,6 +1004,11 @@ http://rv.therevenge.co:80/1234560/1234560/78899
 http://rv.therevenge.co:80/1234560/1234560/78900
 
 
+#EXTINF:-1 ,beIN Sports 1
+http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/101892
+#EXTINF:-1 ,beIN Sports 2
+http://doom2-iptv.net:8080/S30030300610/5f4bdfb3580b8/101893
+
 
 #EXTINF:-1 ,beIN Sports
 http://bazarhd.online:80/307234110115/307234110115/78625
