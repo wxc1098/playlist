@@ -139,6 +139,12 @@ http://tvmedia2.com:8080/andrea/andrea/173220.m3u8
 http://tvmedia2.com:8080/andrea/andrea/173221.m3u8
 #EXTINF:-1 ,BT Sport 1 HD
 http://tvmedia2.com:8080/andrea/andrea/173222.m3u8
+#EXTINF:-1 ,BT Sport 2 HD
+http://tvmedia2.com:8080/andrea/andrea/173224.m3u8
+#EXTINF:-1 ,BT Sport 3 HD
+http://tvmedia2.com:8080/andrea/andrea/173226.m3u8
+#EXTINF:-1 ,BT Sport ESPNHD
+http://tvmedia2.com:8080/andrea/andrea/173228.m3u8
 
 #EXTINF:-1 ,BT Sport 1 HD
 http://1skytv.com:8080/ByAzavHSvH/GQENz5nt3T/1865
