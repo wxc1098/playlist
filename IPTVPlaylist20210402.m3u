@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 ,Univision Deportes 
+https://iptvcat.com/my_list/s/9c2ac878ef0862f90ca7b076cccc8ba5.m3u8
+#EXTINF:-1 ,WIN Sports HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514756
+
 #EXTINF:-1 ,Bloomberg Television
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1 ,NHK World
