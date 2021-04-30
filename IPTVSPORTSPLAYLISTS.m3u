@@ -1,75 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 ,Bloomberg Television
-https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-#EXTINF:-1 ,BBC News
-http://tv.iptvpl.itv.world:8080/jlsddy44ji/hjgkuyh87686yh/683843
-#EXTINF:-1 ,Arirang TV
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 ,MIS Televizija
-https://5afd52b55ff79.streamlock.net/MISTV/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 ,M4
-https://5a32c05065c79.streamlock.net/live/stream/chunklist.m3u8
-#EXTINF:-1 ,M4
-https://5a32c05065c79.streamlock.net/live/stream/chunklist_w286280757.m3u8
-#EXTINF:-1 ,Buddhist Broadcasting
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
-#EXTINF:-1 ,Buddhist Broadcasting
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-#EXTINF:-1 ,SMTV
-https://c.mjh.nz/snowy-mountains/
-#EXTINF:-1 ,FTV Midnite Secrets
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 ,HD Fashion & Lifestyle
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 ,HD Fashion & Lifestyle
-http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 ,HD Fashion & Lifestyle
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
-#EXTINF:-1 ,ID Fashion
-https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8?_=1602581479
+#EXTINF:-1 ,НТВ+ Спорт
+https://iptvcat.com/my_list/s/35176da3ad0538cc830710223f253ee5.m3u8
 
-#EXTINF:-1 ,ELEVEN SPORTS 1
-http://red.ipfox.org:8080/Karim2_534341/40036069/28005
-#EXTINF:-1 ,ELEVEN SPORTS 2
-http://red.ipfox.org:8080/Karim2_534341/40036069/28004
-#EXTINF:-1 ,ELEVEN SPORTS 3
-http://red.ipfox.org:8080/Karim2_534341/40036069/28003
-#EXTINF:-1 ,ELEVEN SPORTS 4
-http://red.ipfox.org:8080/Karim2_534341/40036069/28002
-
-#EXTINF:-1 ,ELEVEN 1
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4486
-#EXTINF:-1 ,ELEVEN 2
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4485
-#EXTINF:-1 ,ELEVEN 3
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4484
-#EXTINF:-1 ,ELEVEN 4
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4483
-#EXTINF:-1 ,ELEVEN 5
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4482
-#EXTINF:-1 ,ELEVEN 6
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4481
-
-#EXTINF:-1,﻿DIGI SPORT 1 HD
-http://d-e-02.cdn.rdsnet.ro/DVR/digisport1hdb.stream/playlist.m3u8
-#EXTINF:-1,﻿DIGI SPORT 2 HD
-http://d-e-02.cdn.rdsnet.ro/DVR/digisport2hdb.stream/playlist.m3u8
-#EXTINF:-1,﻿DIGI SPORT 3 HD
-http://d-e-02.cdn.rdsnet.ro/DVR/digisport3hdb.stream/playlist.m3u8
-#EXTINF:-1,﻿DIGI SPORT 4 HD
-http://d-e-02.cdn.rdsnet.ro/DVR/digisport4hdb.stream/playlist.m3u8
-
-#EXTINF:-1, SPORT TV 1
-https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1, SPORT TV 2
-https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1, SPORT TV 3
-https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1, SPORT TV 4
-https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1, SPORT TV 5
-https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 ,Arena Sport 1
+https://iptvcat.com/my_list/s/d37f617e05f871c54e0aff7fc3c86bd8.m3u8
+#EXTINF:-1 ,Arena Sport 2
+https://iptvcat.com/my_list/s/13c7b085dd4e46d30f3c54f3a6952c17.m3u8
+#EXTINF:-1 ,Arena Sport 3
+https://iptvcat.com/my_list/s/40b664c3983a2ab3425f355cf71ec1f7.m3u8
+#EXTINF:-1 ,Arena Sport 4
+https://iptvcat.com/my_list/s/df98cce4ee9f12bdcc4e604ae0385841.m3u8
 
 #EXTINF:-1 ,Eleven Sports-1
 http://internetowa.tv/?c=hlsPlay&channel=eleven&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
@@ -79,6 +20,7 @@ http://internetowa.tv/?c=hlsPlay&channel=eleven2&token=04930f46ae574effac95f6edf
 http://internetowa.tv/?c=hlsPlay&channel=eleven3&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
 #EXTINF:-1 ,Eleven Sports-4
 http://internetowa.tv/?c=hlsPlay&channel=eleven4&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+
 #EXTINF:-1 ,Eurosport-1
 http://internetowa.tv/?c=hlsPlay&channel=eurosport&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
 #EXTINF:-1 ,Eurosport-2
