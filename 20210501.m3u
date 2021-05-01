@@ -37,26 +37,28 @@ https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,Fox News Now
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Unidentified
+#EXTINF:-1 ,Local Now Discover
+https://linear-145.frequency.stream/dist/localnow/145/hls/master/playlist.m3u8
+#EXTINF:-1 ,Local Now Unidentified
 https://linear-150.frequency.stream/dist/localnow/150/hls/master/playlist.m3u8
-#EXTINF:-1 ,Romantique
+#EXTINF:-1 ,Local Now Romantique
 https://linear-152.frequency.stream/dist/localnow/152/hls/master/playlist.m3u8
-#EXTINF:-1 ,Fear This Classic
+#EXTINF:-1 ,Local Now Classic
 https://linear-153.frequency.stream/dist/localnow/153/hls/master/playlist.m3u8
-#EXTINF:-1 ,Insight
+#EXTINF:-1 ,Local Now Insight
 https://linear-154.frequency.stream/dist/localnow/154/hls/master/playlist.m3u8
-#EXTINF:-1 ,Fear This Sci-Fi
+#EXTINF:-1 ,Local Now Sci-Fi
 https://linear-163.frequency.stream/dist/localnow/163/hls/master/playlist.m3u8
 #EXTINF:-1 ,Survivor Net TV
 https://linear-165.frequency.stream/dist/localnow/165/hls/master/playlist.m3u8
-#EXTINF:-1 ,Fear This '00s Movies
+#EXTINF:-1 ,Local Now '00s Movies
 https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8
-#EXTINF:-1 ,Fear This '10s Movies
+#EXTINF:-1 ,Local Now '10s Movies
 https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
-#EXTINF:-1 ,Fear This '20s Movies
+#EXTINF:-1 ,Local Now '20s Movies
 https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
-#EXTINF:-1 ,Fear This '90s Movies
+#EXTINF:-1 ,Local Now '90s Movies
 https://linear-170.frequency.stream/dist/localnow/170/hls/master/playlist.m3u8
-#EXTINF:-1 ,Fear This '80s Movies
+#EXTINF:-1 ,Local Now '80s Movies
 https://linear-171.frequency.stream/dist/localnow/171/hls/master/playlist.m3u8
 
