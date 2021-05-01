@@ -4,6 +4,14 @@
 http://uye.performlive.eu:80/aykut35/35aykut/61440
 #EXTINF:-1 ,Discovery Science
 http://uye.performlive.eu:80/aykut35/35aykut/61450
+#EXTINF:-1 ,Viasat History
+http://uye.performlive.eu:80/aykut35/35aykut/61489
+#EXTINF:-1 ,Viasat Nature
+http://uye.performlive.eu:80/aykut35/35aykut/61490
 
 #EXTINF:-1 ,BNC Go
 http://bnc-roku-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewsnetwork/CDN/1280x720_2855600/index.m3u8
+#EXTINF:-1 ,BBC World News
+http://1111296894.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,America's Voice
+https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8
