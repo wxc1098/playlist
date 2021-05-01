@@ -9,6 +9,10 @@ http://uye.performlive.eu:80/aykut35/35aykut/61489
 #EXTINF:-1 ,Viasat Nature
 http://uye.performlive.eu:80/aykut35/35aykut/61490
 
+#EXTINF:-1 ,Edge Sports
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Euronews
+https://euronews-euronews-world-1.roku.wurl.com/manifest/71bf778598cc9ce36952bb8a3331551a.m3u8
 #EXTINF:-1 ,BNC Go
 http://bnc-roku-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewsnetwork/CDN/1280x720_2855600/index.m3u8
 #EXTINF:-1 ,BBC World News
