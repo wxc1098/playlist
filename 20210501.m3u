@@ -26,7 +26,20 @@ http://securepoint.io:83/live/promo/promo/362255.ts
 #EXTINF:-1 ,BT Sports ESPN
 http://securepoint.io:83/live/promo/promo/262998.ts
 
-
+#EXTINF:-1 ,beIN Sports 1
+http://livegamer.org:2086/Dindin/4835928856/1174
+#EXTINF:-1 ,beIN Sports 1
+http://bazarhd.online:80/2993289990/5002883998/80398
+#EXTINF:-1 ,beIN Sports 2
+http://livegamer.org:2086/Dindin/4835928856/1177
+#EXTINF:-1 ,beIN Sports 2
+http://bazarhd.online:80/2993289990/5002883998/80391
+#EXTINF:-1 ,beIN Sports 3
+http://livegamer.org:2086/Dindin/4835928856/1178
+#EXTINF:-1 ,beIN Sports 4
+http://livegamer.org:2086/Dindin/4835928856/1179
+#EXTINF:-1 ,beIN Sports 4
+http://bazarhd.online:80/2993289990/5002883998/80389
 
 #EXTINF:-1 ,Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
