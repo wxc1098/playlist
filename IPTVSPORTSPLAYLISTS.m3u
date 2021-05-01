@@ -1,16 +1,26 @@
 #EXTM3U
 
 #EXTINF:-1 ,НТВ+ Спорт
-https://iptvcat.com/my_list/s/35176da3ad0538cc830710223f253ee5.m3u8
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 ,Sportsman Channel
+http://goodtv.xyz:2052/reggie/reggie/1524443
+#EXTINF:-1 ,beIN Sports Xtra
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8
 
 #EXTINF:-1 ,Arena Sport 1
-https://iptvcat.com/my_list/s/d37f617e05f871c54e0aff7fc3c86bd8.m3u8
+http://pn.tvott.info:80/1932742343/4458181593/85183
 #EXTINF:-1 ,Arena Sport 2
-https://iptvcat.com/my_list/s/13c7b085dd4e46d30f3c54f3a6952c17.m3u8
+http://pn.tvott.info:80/1932742343/4458181593/85182
 #EXTINF:-1 ,Arena Sport 3
-https://iptvcat.com/my_list/s/40b664c3983a2ab3425f355cf71ec1f7.m3u8
+http://pn.tvott.info:80/1932742343/4458181593/85181
 #EXTINF:-1 ,Arena Sport 4
-https://iptvcat.com/my_list/s/df98cce4ee9f12bdcc4e604ae0385841.m3u8
+http://pn.tvott.info:80/1932742343/4458181593/85180
+#EXTINF:-1 ,Arena Sport 5
+http://pn.tvott.info:80/1932742343/4458181593/85179
+#EXTINF:-1 ,Eurosport 1
+http://pn.tvott.info:80/1932742343/4458181593/85178
+#EXTINF:-1 ,Eurosport 2
+http://pn.tvott.info:80/1932742343/4458181593/85177
 
 #EXTINF:-1 ,Eleven Sports-1
 http://internetowa.tv/?c=hlsPlay&channel=eleven&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
