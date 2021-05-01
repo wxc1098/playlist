@@ -9,6 +9,27 @@ http://uye.performlive.eu:80/aykut35/35aykut/61489
 #EXTINF:-1 ,Viasat Nature
 http://uye.performlive.eu:80/aykut35/35aykut/61490
 
+#EXTINF:-1 ,BT Sports 1
+http://securepoint.io:83/live/promo/promo/309255.ts
+#EXTINF:-1 ,BT Sports 1
+http://securepoint.io:83/live/promo/promo/309257.ts
+#EXTINF:-1 ,BT Sports 2
+http://securepoint.io:83/live/promo/promo/382158.ts
+#EXTINF:-1 ,BT Sports 2
+http://securepoint.io:83/live/promo/promo/382155.ts
+#EXTINF:-1 ,BT Sports 3
+http://securepoint.io:83/live/promo/promo/309254.ts
+#EXTINF:-1 ,BT Sports 3
+http://securepoint.io:83/live/promo/promo/309256.ts
+#EXTINF:-1 ,BT Sports ESPN
+http://securepoint.io:83/live/promo/promo/362255.ts
+#EXTINF:-1 ,BT Sports ESPN
+http://securepoint.io:83/live/promo/promo/262998.ts
+
+
+
+#EXTINF:-1 ,Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 ,Animals
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=550&deviceId=5ddf8ea0d000120009bcad83&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 ,Love Nature
