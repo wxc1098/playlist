@@ -33,4 +33,8 @@ https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,Fox News Now
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Fear This Classic
+https://linear-153.frequency.stream/dist/localnow/153/hls/master/playlist.m3u8
+#EXTINF:-1 ,Fear This Sci-Fi
+https://linear-163.frequency.stream/dist/localnow/163/hls/master/playlist.m3u8
 
