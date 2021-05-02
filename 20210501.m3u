@@ -15,6 +15,31 @@ http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/585
 #EXTINF:-1 ,beIN Sports Xtra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr
 
+#EXTINF:-1 ,Sky Sport Arena
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/125851
+#EXTINF:-1 ,Sky Sport Arena
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/125852
+#EXTINF:-1 ,Sky Sport 24
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/125859
+#EXTINF:-1 ,Sky Sport 24
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/125860
+#EXTINF:-1 ,Rai Sport+
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/125863
+#EXTINF:-1 ,Rai Sport+
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/125864
+#EXTINF:-1 ,Rai Storia
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/125865
+#EXTINF:-1 ,Rai Scuola
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/125867
+#EXTINF:-1 ,Rai Scuola
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/125868
+#EXTINF:-1 ,Focus Mediaset
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/125870
+#EXTINF:-1 ,Gambero Rosso
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/125873
+#EXTINF:-1 ,Gambero Rosso
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/125874
+
 #EXTINF:-1 ,M Film
 http://uye.performlive.eu:80/aykut35/35aykut/61440
 #EXTINF:-1 ,Discovery Science
