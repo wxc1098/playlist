@@ -30,12 +30,8 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
 #EXTINF:-1 ,OraNews
 https://tv.oranews.tv/live/oranews/index.m3u8
-#EXTINF:-1 ,RT News
-http://goodtv.xyz:2052/reggie/reggie/1192452
 #EXTINF:-1 ,NewsMax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
-#EXTINF:-1 ,RT News
-https://iptvcat.com/my_list/s/e16d2e98080a280ee71ea683cf11e2c9.m3u8
 #EXTINF:-1 ,RTE News
 https://live.rte.ie/live/a/channel3/news.isml/news-audio_128k=128000-video=4499968.m3u8
 #EXTINF:-1 ,RaiNews24
@@ -50,8 +46,6 @@ http://goodtv.xyz:2052/reggie/reggie/1192595
 http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8
 #EXTINF:-1 ,Fox News Now
 https://lnc-fox-news-now.tubi.video/index.m3u8
-#EXTINF:-1 ,RaiNews24
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
 
 #EXTINF:-1 ,Metro TV
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
@@ -59,18 +53,18 @@ http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 ,CNBC Indonesia
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
+#EXTINF:-1 ,CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 ,CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w672934803_b384000_sleng.m3u8
+#EXTINF:-1 ,CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 ,RRI Net
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1 ,TVRI Nasional
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 #EXTINF:-1 ,Jakarta Globe News Channel
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-#EXTINF:-1 ,CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 ,CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 ,GTV
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 #EXTINF:-1 ,MNC TV
@@ -88,25 +82,11 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 #EXTINF:-1 ,TVRI Kanal-3
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 
-
-
 #EXTINF:-1 ,beIN Sports
 http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/80048
 #EXTINF:-1 ,Animal Planet
 http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/80049
 
-#EXTINF:-1 ,beIN Sports 1 FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/489
-#EXTINF:-1 ,beIN Sports 2 FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/490
-#EXTINF:-1 ,beIN Sports 3 FR
-http://d-box-iptv.navarrotv.com:8000/asmirbujla/vfgsgsfdfx/491
-#EXTINF:-1 ,beIN Sports 1 TR
-http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/583
-#EXTINF:-1 ,beIN Sports 2 TR
-http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/584
-#EXTINF:-1 ,beIN Sports 3 TR
-http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/585
 #EXTINF:-1 ,beIN Sports Xtra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr
 
@@ -160,21 +140,6 @@ http://securepoint.io:83/live/promo/promo/309256.ts
 http://securepoint.io:83/live/promo/promo/362255.ts
 #EXTINF:-1 ,BT Sports ESPN
 http://securepoint.io:83/live/promo/promo/262998.ts
-
-#EXTINF:-1 ,beIN Sports 1
-http://livegamer.org:2086/Dindin/4835928856/1174
-#EXTINF:-1 ,beIN Sports 1
-http://bazarhd.online:80/2993289990/5002883998/80398
-#EXTINF:-1 ,beIN Sports 2
-http://livegamer.org:2086/Dindin/4835928856/1177
-#EXTINF:-1 ,beIN Sports 2
-http://bazarhd.online:80/2993289990/5002883998/80391
-#EXTINF:-1 ,beIN Sports 3
-http://livegamer.org:2086/Dindin/4835928856/1178
-#EXTINF:-1 ,beIN Sports 4
-http://livegamer.org:2086/Dindin/4835928856/1179
-#EXTINF:-1 ,beIN Sports 4
-http://bazarhd.online:80/2993289990/5002883998/80389
 
 #EXTINF:-1 ,Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
