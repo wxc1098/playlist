@@ -82,6 +82,23 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 #EXTINF:-1 ,TVRI Kanal-3
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 
+#EXTINF:-1 ,Adventure
+http://nowatv.dyndns.info:8080/kam-mot@o2.pl/fj2HUYet1s/173
+#EXTINF:-1 ,Animal Planet
+http://nowatv.dyndns.info:8080/kam-mot@o2.pl/fj2HUYet1s/174
+#EXTINF:-1 ,BBC Earth
+http://nowatv.dyndns.info:8080/kam-mot@o2.pl/fj2HUYet1s/175
+#EXTINF:-1 ,Discovery
+http://nowatv.dyndns.info:8080/kam-mot@o2.pl/fj2HUYet1s/176
+#EXTINF:-1 ,Discovery Historia
+http://nowatv.dyndns.info:8080/kam-mot@o2.pl/fj2HUYet1s/177
+#EXTINF:-1 ,Discovery Life
+http://nowatv.dyndns.info:8080/kam-mot@o2.pl/fj2HUYet1s/178
+#EXTINF:-1 ,Sci HD
+http://nowatv.dyndns.info:8080/kam-mot@o2.pl/fj2HUYet1s/179
+#EXTINF:-1 ,Da Vinci
+http://nowatv.dyndns.info:8080/kam-mot@o2.pl/fj2HUYet1s/180
+
 #EXTINF:-1 ,beIN Sports
 http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/80048
 #EXTINF:-1 ,Animal Planet
