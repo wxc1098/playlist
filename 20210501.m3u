@@ -94,6 +94,23 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 #EXTINF:-1 ,TVRI Kanal-3
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 
+#EXTINF:-1 ,FTV Midnite Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 ,FTV Midnite Secrets
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:-1 ,HD Fashion & Lifestyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 ,HD Fashion & Lifestyle
+http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 ,HD Fashion & Lifestyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
+#EXTINF:-1 ,ID Fashion
+https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8?_=1602581479
+#EXTINF:-1 ,Fashion TV Mumbai
+https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_gmt_ess_43126_default_1262_hls.smil/playlist.m3u8
+#EXTINF:-1 ,Fashion TV New York
+https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8
+
 #EXTINF:-1 ,Tennis Channel Plus
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:-1 ,Tennis Channel
