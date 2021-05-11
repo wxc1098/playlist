@@ -46,6 +46,18 @@ http://goodtv.xyz:2052/reggie/reggie/1192595
 http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8
 #EXTINF:-1 ,Fox News Now
 https://lnc-fox-news-now.tubi.video/index.m3u8
+EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel Guide TV UA" tvg-logo="null" group-title="Украинские",Travel Guide TV UA
+http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8
+#EXTINF:-1 ,Palestinian TV
+http://51.255.84.28:8081/palestiniantv_source/live/chunks.m3u8
+#EXTINF:-1 ,Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+#EXTINF:-1 ,FS1 Salzburg
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1 ,M4
+rtmp://streaming.austria24.tv/live/mp4:stream_720p
+#EXTINF:-1 ,SMTV
+https://c.mjh.nz/snowy-mountains/
 
 #EXTINF:-1 ,Metro TV
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
@@ -81,6 +93,17 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 #EXTINF:-1 ,TVRI Kanal-3
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+
+#EXTINF:-1 ,Tennis Channel Plus
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1 ,Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 ,Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 ,НТВ+ Спорт
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 ,FOX Sports
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 ,Adventure
 http://nowatv.dyndns.info:8080/kam-mot@o2.pl/fj2HUYet1s/173
