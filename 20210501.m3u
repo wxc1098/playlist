@@ -46,6 +46,24 @@ http://goodtv.xyz:2052/reggie/reggie/1192595
 http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8
 #EXTINF:-1 ,Fox News Now
 https://lnc-fox-news-now.tubi.video/index.m3u8
+#EXTINF:-1 ,CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 ,CNN
+http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,NBC News
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1 ,TRT world
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 ,Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 ,CTV
+https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
+#EXTINF:-1 ,News Net
+http://broadcaster1.prolivestream.net:8081/onair/newsnetweb/playlist.m3u8
+#EXTINF:-1 ,Telesur
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 ,Press TV
+https://live.presstv.com/liveprs/smil:liveprs/.m3u8
 EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel Guide TV UA" tvg-logo="null" group-title="Украинские",Travel Guide TV UA
 http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8
 #EXTINF:-1 ,Palestinian TV
