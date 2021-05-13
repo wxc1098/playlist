@@ -64,6 +64,19 @@ http://broadcaster1.prolivestream.net:8081/onair/newsnetweb/playlist.m3u8
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 ,Press TV
 https://live.presstv.com/liveprs/smil:liveprs/.m3u8
+#EXTINF:-1 ,French 24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1 ,Jordan TV
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:-1 ,Knesset TV
+https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
+#EXTINF:-1 ,Kurdistan TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 ,Libya Channel
+https://master.starmena-cloud.com/hls/libyas.m3u8
+
+
+
 EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel Guide TV UA" tvg-logo="null" group-title="Украинские",Travel Guide TV UA
 http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8
 #EXTINF:-1 ,Palestinian TV
@@ -76,6 +89,10 @@ http://stream.fs1.tv:8080/hls/webstream.m3u8
 rtmp://streaming.austria24.tv/live/mp4:stream_720p
 #EXTINF:-1 ,SMTV
 https://c.mjh.nz/snowy-mountains/
+#EXTINF:-1 ,Love Nature
+http://bamus-eng-roku.amagi.tv/playlist404p.m3u8
+#EXTINF:-1 ,Love Nature
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 ,Metro TV
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
