@@ -85,8 +85,6 @@ https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,Corona Virus Gov
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e7559e8a46b495a2283c5e8/playlist.m3u8
 
-
-
 EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel Guide TV UA" tvg-logo="null" group-title="Украинские",Travel Guide TV UA
 http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8
 #EXTINF:-1 ,Palestinian TV
@@ -111,8 +109,10 @@ https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjY
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 #EXTINF:-1 ,Rede Globo
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-
-
+#EXTINF:-1 ,Its Super Natural
+https://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/master.m3u8
+#EXTINF:-1 ,Its Game Network
+https://ign-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 ,Metro TV
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
@@ -149,6 +149,8 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 #EXTINF:-1 ,TVRI Kanal-3
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 
+#EXTINF:-1 ,Celebrity Scene
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastcelebrityscene/playlist.m3u8
 #EXTINF:-1 ,FTV Midnite Secrets
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
 #EXTINF:-1 ,FTV Midnite Secrets
@@ -363,6 +365,8 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 ,FOX Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 ,Eurosport
+http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
 
 #EXTINF:-1 ,Adventure
 http://nowatv.dyndns.info:8080/kam-mot@o2.pl/fj2HUYet1s/173
