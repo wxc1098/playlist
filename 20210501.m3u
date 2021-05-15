@@ -42,6 +42,8 @@ https://live.rte.ie/live/a/channel3/news.isml/news-audio_128k=128000-video=44999
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
 #EXTINF:-1 ,Yahoo! News
 https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
+#EXTINF:-1 ,Yahoo! Finance
+https://yahoo-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,CBN News
 http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8
 #EXTINF:-1 ,CBN News International
@@ -249,6 +251,16 @@ https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 ,MBN
 rtmp://origin.flive.skcdn.com/mbn-auth1/1000k
+#EXTINF:-1 ,TV7 News
+http://217.61.26.46:8080/hls/news.m3u8
+#EXTINF:-1 ,Weather Spy
+https://04799df414944908856c6c521891945f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_WeatherSpy/2eba863c-1452-4ea6-98b2-2b1c0c81c112/3.m3u8
+#EXTINF:-1 ,Weather Spy Australia
+https://jukin-weatherspy-2-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,Weather Spy Brasil
+https://jukin-weatherspy-2-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,Weather Spy Mexico
+https://jukin-weatherspy-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
