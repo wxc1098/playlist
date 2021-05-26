@@ -84,6 +84,17 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/3466
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/3467
 #EXTINF:-1 ,SK 2 HD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/3468
+#EXTINF:-1 ,Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 ,Sky News Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 ,Sky News Extra 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 ,Sky News Extra 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 ,Sky Sport News
+http://iptvtree.net:8080/vpngenerators/635ee5a5e7/194306
+
 
 
 #EXTINF:-1 ,beIN Sports 1
@@ -215,6 +226,40 @@ http://163.47.214.155:1935/fwnews/live/playlist.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Nippon News 24
 https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 ,ATN News
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
+#EXTINF:-1 ,ATN News
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist_w796472816.m3u8
+#EXTINF:-1 ,ATN News
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist.m3u8
+#EXTINF:-1 ,ABC News
+http://152.89.62.111:8080/kyle123/kyle123/259721
+#EXTINF:-1 ,Fox News
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/2275
+#EXTINF:-1 ,AZ News
+https://swow1.socialsmart.tv/aznews/smil:aznews.smil/chunklist_w750686581_b1364000_sltur.m3u8
+#EXTINF:-1 ,Fox News International
+http://chronostv.com:80/cliente1812/cliente1812gg/71278
+#EXTINF:-1 ,BBC World News
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2585
+#EXTINF:-1 ,CBC News Network
+http://66.206.39.25:8080/garry1/garry1/174752
+#EXTINF:-1 ,CTV News
+http://66.206.39.25:8080/garry1/garry1/174607
+#EXTINF:-1 ,Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+#EXTINF:-1 ,RT News
+http://gooserace.xyz:2052/donna/donna123/2473650
+#EXTINF:-1 ,i24 News
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/8095
+#EXTINF:-1 ,i24 News
+http://51.91.73.99:25461/spain/XDWu1KatRP/21699
+#EXTINF:-1 ,i24 News
+http://iptvtree.net:8080/vpngenerators/635ee5a5e7/8095
+#EXTINF:-1 ,i24 News
+http://directtv1.xyz:80/Freddie/Freddie/174901
+#EXTINF:-1 ,TVi24
+http://dimapro.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/59298
 
 
 
