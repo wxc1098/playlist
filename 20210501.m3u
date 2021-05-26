@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 ,Super Sport2
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/148214
+
+#EXTINF:-1 ,beIN Sports 7
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/151028
+#EXTINF:-1 ,beIN Sports 8
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/151032
+
 #EXTINF:-1 ,Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 #EXTINF:-1 ,Euronews
