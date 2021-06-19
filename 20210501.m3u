@@ -558,6 +558,10 @@ http://ip.trboss.net:80/dindin/sdfsjfujskrez/1802
 #EXTINF:-1 ,beIN Sports HD 1
 http://147.135.130.72:8011/100200300/100200300/81835
 
+#EXTINF:-1 ,Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Tennis Channel
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/39094
 #EXTINF:-1 ,Tennis Channel Plus
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:-1 ,Tennis Channel
