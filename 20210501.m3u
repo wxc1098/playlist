@@ -1,5 +1,15 @@
 #EXTM3U
 
+#EXTINF:-1 ,Critical TV
+https://odb.alonhosting.com:3911/stream/play.m3u8
+#EXTINF:-1 ,Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 ,Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w359453841.m3u8
+#EXTINF:-1 ,Miami TV
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+#EXTINF:-1 ,Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/chunklist_w2005472791_b2592000.m3u8
 #EXTINF:-1 ,Spike
 http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7309
 #EXTINF:-1 ,TRT Anaokulu
